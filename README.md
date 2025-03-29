@@ -1,5 +1,5 @@
  ![github-header-image (1)](https://github.com/user-attachments/assets/f98f1901-a888-4abf-9043-456b697e83e7)
-- 🌱 I’m currently learning Wordpress
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on projects with Python,HTML,CSS OR JAVASCRIPT
 - 💬 Ask me about web basics
 - 📫 How to reach me: agustinwojtyszyn99@gmail.com
