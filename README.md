@@ -5,10 +5,10 @@
 [![Banner Principal](https://github.com/user-attachments/assets/f98f1901-a888-4abf-9043-456b697e83e7)](https://github.com/AgustinWojtyszyn)
 
 ### 📌 Datos precisos (Nov 2024 - Presente)
-- 🏆 **10 repositorios** públicos
+- 🏆 **+10 repositorios** públicos
 - ✨ **+99 commits** y contando
 - 🚀 Principalmente trabajo con **Python, JavaScript y Java**
-- 🌱 Actualmente aprendiendo SCSS
+- 🌱 Aprendiendo constantemente
 ### 🛠 Stack Tecnológico Real
 
 **Lenguajes:**  
