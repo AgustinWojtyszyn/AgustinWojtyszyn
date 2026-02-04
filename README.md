@@ -6,7 +6,7 @@
 
 ### 📌 Datos precisos (Nov 2024 - Presente)
 - 🏆 **+10 repositorios** públicos
-- ✨ **+99 commits** y contando
+- ✨ **Más de 1000 commits** 
 - 🚀 Principalmente trabajo con **Python, JavaScript y Java**
 - 🌱 Aprendiendo constantemente
 ### 🛠 Stack Tecnológico Real
