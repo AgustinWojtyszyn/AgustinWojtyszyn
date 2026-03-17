@@ -10,6 +10,25 @@ Desarrollador web enfocado en la creación de **aplicaciones modernas, dashboard
 
 ---
 
+# 🚀 Proyecto Principal
+
+### ServiFood Order System
+
+Sistema profesional de **gestión de pedidos para empresas** con panel administrativo.
+
+Incluye:
+
+- gestión completa de pedidos
+- estados operativos (pendiente / archivado)
+- panel administrativo
+- visualización de pedidos diarios y mensuales
+- exportación de datos
+- interfaz optimizada para operaciones empresariales
+
+⚠️ **Demo privada disponible bajo solicitud.**
+
+---
+
 ## 📌 Datos (Nov 2024 - Presente)
 
 - 🏆 **+10 repositorios públicos**
@@ -69,7 +88,7 @@ Plataforma para registrar y gestionar jornadas laborales.
 
 # 🔍 Proyectos Destacados
 
-### [DeluxeShop](https://github.com/AgustinWojtyszyn/DeluxeShop)
+### DeluxeShop
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)](https://react.dev/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge)](https://www.djangoproject.com/)
@@ -78,7 +97,7 @@ E-commerce completo con sistema de **autenticación de usuarios, gestión de pro
 
 ---
 
-### [CateringWeb](https://github.com/AgustinWojtyszyn/CateringWeb)
+### CateringWeb
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -91,7 +110,7 @@ Sitio web **responsive** para servicio de catering, con diseño moderno y adapta
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AgustinWojtyszyn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AgustinWojtyszyn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinWojtyszyn&layout=compact&theme=tokyonight&hide_border=true"/>
 
