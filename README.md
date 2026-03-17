@@ -6,17 +6,25 @@
   <img src="https://github.com/user-attachments/assets/f98f1901-a888-4abf-9043-456b697e83e7" width="700">
 </p>
 
-Desarrollador web enfocado en la creación de **aplicaciones modernas, dashboards y sistemas de gestión**.  
-Trabajo principalmente con tecnologías del ecosistema **JavaScript y Python**, desarrollando soluciones full stack con interfaces limpias y funcionales.
+Desarrollador web enfocado en la creación de **aplicaciones modernas, dashboards y sistemas de gestión**.
 
 ---
 
-## 📌 Datos precisos (Nov 2024 - Presente)
+## 📌 Datos (Nov 2024 - Presente)
 
 - 🏆 **+10 repositorios públicos**
 - ✨ **Más de 1000 commits**
 - 🚀 Trabajo principalmente con **Python, JavaScript y Java**
-- 🌱 Aprendizaje continuo y mejora constante
+
+---
+
+## 💡 Qué construyo
+
+- Dashboards administrativos y paneles de control
+- Sistemas de gestión empresarial
+- Aplicaciones web full stack
+- Interfaces modernas con React
+- Integraciones con APIs y bases de datos
 
 ---
 
@@ -46,6 +54,19 @@ Trabajo principalmente con tecnologías del ecosistema **JavaScript y Python**, 
 
 ---
 
+# 🚀 Proyectos activos
+
+**ServiFood Order System**  
+Sistema de gestión de pedidos para empresas con panel administrativo.
+
+**Arcade React App**  
+Colección de juegos web interactivos con integración de APIs.
+
+**Tracking Laboral SF**  
+Plataforma para registrar y gestionar jornadas laborales.
+
+---
+
 # 🔍 Proyectos Destacados
 
 ### [DeluxeShop](https://github.com/AgustinWojtyszyn/DeluxeShop)
@@ -63,6 +84,18 @@ E-commerce completo con sistema de **autenticación de usuarios, gestión de pro
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)](https://developer.mozilla.org/es/docs/Web/CSS)
 
 Sitio web **responsive** para servicio de catering, con diseño moderno y adaptado a dispositivos móviles.
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AgustinWojtyszyn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinWojtyszyn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
