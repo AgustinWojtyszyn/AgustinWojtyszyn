@@ -3,7 +3,9 @@
 ## Desarrollador Web Full Stack
 
 <p align="center">
-<img width="1024" height="1536" alt="Desarrollador en oficina futurista" src="https://github.com/user-attachments/assets/22be243d-ef19-412b-bf99-9e19382f8a78" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f98f1901-a888-4abf-9043-456b697e83e7" width="650">
+</p>
 
 </p>
 
