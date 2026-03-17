@@ -3,7 +3,8 @@
 ## Desarrollador Web Full Stack
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/tu-imagen-aqui" width="850">
+<img width="1024" height="1536" alt="Desarrollador en oficina futurista" src="https://github.com/user-attachments/assets/22be243d-ef19-412b-bf99-9e19382f8a78" />
+
 </p>
 
 Desarrollador web enfocado en la creación de **aplicaciones modernas, dashboards y sistemas de gestión**.
