@@ -3,10 +3,12 @@
 ## Desarrollador Web Full Stack
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f98f1901-a888-4abf-9043-456b697e83e7" width="700">
+<img src="https://github.com/user-attachments/assets/f98f1901-a888-4abf-9043-456b697e83e7" width="650"/>
 </p>
 
-Desarrollador web enfocado en la creación de **aplicaciones modernas, dashboards y sistemas de gestión**.
+<p align="center">
+Desarrollador web enfocado en la creación de <b>aplicaciones modernas, dashboards y sistemas de gestión</b>.
+</p>
 
 ---
 
@@ -18,18 +20,18 @@ Sistema profesional de **gestión de pedidos para empresas** con panel administr
 
 Incluye:
 
-- gestión completa de pedidos
-- estados operativos (pendiente / archivado)
-- panel administrativo
-- visualización de pedidos diarios y mensuales
-- exportación de datos
-- interfaz optimizada para operaciones empresariales
+- gestión completa de pedidos  
+- estados operativos (pendiente / archivado)  
+- panel administrativo  
+- visualización de pedidos diarios y mensuales  
+- exportación de datos  
+- interfaz optimizada para operaciones empresariales  
 
-⚠️ **Demo privada disponible bajo solicitud.**
+⚠️ **Demo privada disponible bajo solicitud**
 
 ---
 
-## 📌 Datos (Nov 2024 - Presente)
+# 📌 Datos (Nov 2024 - Presente)
 
 - 🏆 **+10 repositorios públicos**
 - ✨ **Más de 1000 commits**
@@ -37,13 +39,13 @@ Incluye:
 
 ---
 
-## 💡 Qué construyo
+# 💡 Qué construyo
 
-- Dashboards administrativos y paneles de control
-- Sistemas de gestión empresarial
-- Aplicaciones web full stack
-- Interfaces modernas con React
-- Integraciones con APIs y bases de datos
+- Dashboards administrativos y paneles de control  
+- Sistemas de gestión empresarial  
+- Aplicaciones web full stack  
+- Interfaces modernas con React  
+- Integraciones con APIs y bases de datos  
 
 ---
 
