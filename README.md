@@ -112,7 +112,7 @@ Sitio web **responsive** para servicio de catering, con diseño moderno y adapta
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AgustinWojtyszyn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AgustinWojtyszyn&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinWojtyszyn&layout=compact&theme=tokyonight&hide_border=true"/>
 
