@@ -33,8 +33,8 @@ Incluye:
 
 # 📌 Datos (Nov 2024 - Presente)
 
-- 🏆 **+10 repositorios públicos**
-- ✨ **Más de 1000 commits**
+- 🏆 **+30 repositorios públicos**
+- ✨ **Más de 3000 commits**
 - 🚀 Trabajo principalmente con **Python, JavaScript y Java**
 
 ---
